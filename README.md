@@ -1,4 +1,6 @@
 # ernolana4
+Made purely as an inside-joke. Is no use for anyone.
+https://ernolana4.xyz/
 
 ## Project setup
 ```
